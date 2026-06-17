@@ -1,0 +1,1 @@
+pip install pandas numpy sqlalchemy plotly dash openai scikit-learn
